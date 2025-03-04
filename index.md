@@ -22,7 +22,7 @@ Project: Buy and sell car (https://web-car-pr.onrender.com/)
 ---
 ### Economic science
 
-- Value-Added Tax on Subsidies/Grants for Public Enterprises  (III. 2013-11 1-PublicationTHE HERITAGE 11.pdf)
+- Value-Added Tax on Subsidies/Grants for Public Enterprises  (/pdf/III. 2013-11 1-PublicationTHE HERITAGE 11.pdf)
 - Development of Public-Privat parnership in history (Albania)  (III. 2016-15 2-Publication The Heritage 15.pdf)
 
 ---
