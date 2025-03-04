@@ -4,26 +4,26 @@
 
 ### Category Name 1 
 
-[Project: Churn reduction strategy(/sample_page)
+Project: Churn reduction strategy
 <img src="images/Corr_churn.jpg?raw=true"/>
 
 ---
-[Project: Age detection(/pdf/sample_presentation.pdf)
+Project: Age detection
 <img src="images/age_det.png?raw=true"/>
 
 ---
-[Project: East Coast Trip 2024 (https://fancy-faloodeh-695333.netlify.app/)
+Project: East Coast Trip 2024 (https://fancy-faloodeh-695333.netlify.app/)
 <img src="images/east_trip.png?raw=true"/>
 
 ---
-[Project: Buy and sell car (https://web-car-pr.onrender.com/)
+Project: Buy and sell car (https://web-car-pr.onrender.com/)
 <img src="images/web_car.png?raw=true"/>
 
 ---
 ### Category Name 2
 
--- [Project 4 Title](https://fancy-faloodeh-695333.netlify.app/)
-- [Project 5 Title](https://web-car-pr.onrender.com/)
+-- East Coast Trip 2024  (https://fancy-faloodeh-695333.netlify.app/)
+- Buy and sell car  (https://web-car-pr.onrender.com/)
 
 ---
 
