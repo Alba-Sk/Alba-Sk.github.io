@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Sciences - projects 
 
 Project: Churn reduction strategy
 <img src="images/Corr_churn.jpg?raw=true"/>
@@ -20,7 +20,7 @@ Project: Buy and sell car (https://web-car-pr.onrender.com/)
 <img src="images/web_car.png?raw=true"/>
 
 ---
-### Category Name 2
+### Economic science
 
 -- East Coast Trip 2024  ([https://fancy-faloodeh-695333.netlify.app/])
 -- Buy and sell car  (https://web-car-pr.onrender.com/)
