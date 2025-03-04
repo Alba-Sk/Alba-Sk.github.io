@@ -22,7 +22,7 @@ Project: Buy and sell car (https://web-car-pr.onrender.com/)
 ---
 ### Economic science
 
--- East Coast Trip 2024  ([https://fancy-faloodeh-695333.netlify.app/])
+- Value-Added Tax on Subsidies/Grants for Public Enterprises  (III. 2013-11 1-PublicationTHE HERITAGE 11.pdf)
 -- Buy and sell car  (https://web-car-pr.onrender.com/)
 
 ---
