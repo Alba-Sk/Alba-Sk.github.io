@@ -23,7 +23,7 @@ Project: Buy and sell car (https://web-car-pr.onrender.com/)
 ### Category Name 2
 
 -- East Coast Trip 2024  (https://fancy-faloodeh-695333.netlify.app/)
-- Buy and sell car  (https://web-car-pr.onrender.com/)
+-- Buy and sell car  (https://web-car-pr.onrender.com/)
 
 ---
 
