@@ -23,11 +23,14 @@
 ### Economic & Accounting science
 
 - Value-Added Tax on Subsidies/Grants for Public Enterprises  (/pdf/III. 2013-11 1-PublicationTHE HERITAGE 11.pdf)
+  
 - Development of Public-Privat parnership in history (Albania)  (III. 2016-15 2-Publication The Heritage 15.pdf)
+  
 - November 6–8, 2019 Balkan Conference, Prishtina, Kosovo (https://balkansjointconference.org/?page_id=4991&lang=en/)
   (https://www.youtube.com/watch?v=0J4VQpqoiYQ/)
+  
 - PHD Dissertation publication (https://www.bksh.al/details/453485/)
-- 
+  
 
 ---
 
