@@ -4,7 +4,7 @@
 
 ### Data Sciences - projects 
 
-[Project: Churn reduction strategy] <!--[Project 1 Title](/sample_page) -->
+[Project: Churn reduction strategy](/sample_page/) <!--[Project 1 Title](/sample_page) -->
 <img src="images/Corr_churn.jpg?raw=true"/>
 
 ---
@@ -38,6 +38,6 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a  evanca</a></p>
+<p style="font-size:11px">
 <!-- Remove above link if you don't want to attibute -->
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
