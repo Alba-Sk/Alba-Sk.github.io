@@ -8,7 +8,7 @@
 <img src="images/Corr_churn.jpg?raw=true"/>
 
 ---
-[Project: Age detection]
+[Project: Age detection](/sample_page/)
 <img src="images/age_det.png?raw=true"/>
 
 ---
