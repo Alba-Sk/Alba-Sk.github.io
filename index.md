@@ -4,7 +4,7 @@
 
 ### Data Sciences - projects 
 
-[Project: Churn reduction strategy](/sample_page/) <!--[Project 1 Title](/sample_page) -->
+[Project: Churn reduction strategy](https://github.com/Alba-Sk/Data_projects_TripleTen/) <!--[Project 1 Title](/sample_page) -->
 <img src="images/Corr_churn.jpg?raw=true"/>
 
 ---
@@ -27,9 +27,10 @@
 - [Development of Public-Privat parnership in history (Albania)](/pdf/III. 2016-15 2-Publication The Heritage 15.pdf)
   
 - [November 6–8, 2019 Balkan Conference, Prishtina, Kosovo](https://balkansjointconference.org/?page_id=4991&lang=en/)
-  [Youtube Conference](https://www.youtube.com/watch?v=0J4VQpqoiYQ/)
+- [Youtube Conference](https://www.youtube.com/watch?v=0J4VQpqoiYQ/)
   
 - [PHD Dissertation publication](https://www.bksh.al/details/453485/)
+
   
 
 ---
