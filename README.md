@@ -1,16 +1,11 @@
-## Developer Portfolio Landing Page Template
+## Albana Skeja
 
-### ⚠️ Project Discontinued ⚠️
+### inancial & Data Science Professional
 
-**Note:** This project is no longer maintained and has been discontinued. No further updates or support will be provided. Feel free to fork the repository and make any necessary changes on your own.
+Welcome to my GitHub page! I am an experienced financial and data science professional with expertise in business analytics, accounting, and predictive modeling.
 
 ---
 
-### Introduction
-
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
-
-### Installation
 
 See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
 ___
