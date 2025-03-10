@@ -36,6 +36,7 @@ The model identifies 81.82% of actual churn clients. This high recall ensures th
 
 F1 Score: 78.66%  
 The F1 score balances precision and recall, reflecting a reasonable trade-off between identifying churn clients and avoiding false positives.  
+<img src="images/Corr_churn.jpg?raw=true"/>
 
 ### 4. *Business Recommendation*
 The recommandation and Insights for the Telecom business as follow:  
