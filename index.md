@@ -2,9 +2,10 @@
 
 ---
 
-### Data Sciences - projects 
+### Data Science & Machine Learning - projects 
 
 [Project: Churn reduction strategy](https://github.com/Alba-Sk/Data_projects_TripleTen/) <!--[Project 1 Title](/sample_page) -->
+
 <img src="images/Corr_churn.jpg?raw=true"/>
 
 ---
