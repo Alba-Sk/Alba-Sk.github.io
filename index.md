@@ -26,6 +26,9 @@
 [List of projects: - Machine learning](/list.md/) 
 
 ---
+ 
+
+---
 ### Economic & Accounting science
 
 - [Value-Added Tax on Subsidies/Grants for Public Enterprises](/pdf/III. 2013-11 1-PublicationTHE HERITAGE 11.pdf)
