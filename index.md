@@ -23,7 +23,8 @@
 
 ---
 
-[List of projects: - Machine learning](/list.md/)
+[List of projects: - Machine learning](/list.md/) 
+
 ---
 ### Economic & Accounting science
 
