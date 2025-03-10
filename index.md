@@ -9,7 +9,7 @@
 <img src="images/Corr_churn.jpg?raw=true"/>
 
 ---
-[Project: Age detection](/sample_page/)
+[Project: Age detection](/sample_page.md/)
 <img src="images/age_det.png?raw=true"/>
 
 ---
