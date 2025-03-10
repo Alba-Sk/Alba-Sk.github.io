@@ -21,6 +21,7 @@ plt.imshow(img)
 To train the model, a dataset consisting of photographs labeled with the respective ages of individuals was used.
 
 Results & Performance  
+
 Model Learning Progress:    
    - The validation MAE decreased from 14.1033 to 13.4243, indicating slight improvement.  
 
