@@ -46,5 +46,4 @@ Data Science Projects - Machine Learning
    Description: A project aimed at reducing customer churn through data analysis and predictive modeling.
 
 
-### Project Winner in Code Jam December 2024
-**East Coast Trip 2024**
+### Project Winner in Code Jam December 2024:  **East Coast Trip 2024**
