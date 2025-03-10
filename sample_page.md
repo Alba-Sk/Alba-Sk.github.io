@@ -20,15 +20,13 @@ plt.imshow(img)
 
 To train the model, a dataset consisting of photographs labeled with the respective ages of individuals was used.
 
-Results & Performance
-Model Learning Progress:
-- The validation MAE decreased from 14.1033 to 13.4243, indicating slight improvement.
-
-Loss Reduction:
-- Both training and validation loss (MSE) decreased, showing that the model is learning.
-
+Results & Performance  
+Model Learning Progress:    
+   - The validation MAE decreased from 14.1033 to 13.4243, indicating slight improvement.  
+Loss Reduction:  
+   - Both training and validation loss (MSE) decreased, showing that the model is learning.  
 Challenges:
-- The Mean Absolute Error (MAE) of 13 years suggests a high error margin, likely due to overfitting, insufficient epochs, or a broad age range (1-100 years old)
+   - The Mean Absolute Error (MAE) of 13 years suggests a high error margin, likely due to overfitting, insufficient epochs, or a broad age range (1-100 years old)
 
 ```javascript
 # function to create the model
@@ -71,10 +69,10 @@ def create_model(input_shape):
 ### 5. Business Recommendation
 
 The recommandation and Insights for the Telecom business as follow:  
-1) <font color='blue'> **Targeted Retention strategies**</font>: - With hight score of recall 81.82% focus on developing targeted retention strategies for the clients predicted to churn. This could involve personalized offers, discounts, or reach in other services which the client doesnt access yet.  
-2) <font color='blue'> **Optimize resouce allocation**</font>: - With precision 75.74% ensure that marketing and customer service are allocated effectivly. Focus efforts on clients predicted to churn while also maintaing the strategy to minimize engagement with the client which not  are a risk for churn.  
-3) <font color='blue'> **Customer Feedback**</font>: Establish mechanisms to gather feedback from the clients who have churned to identify common pain points. This information improvements in service or products offering for the pottential churn client.  
-3) <font color='blue'> **Model monitoring**</font>: Implementing a system  for ongoing monitoring  of the models over time because the clients behavior it changes and the date need to be realistically on time.
+1) <font color='blue'> Targeted Retention strategies</font>: - With hight score of recall 81.82% focus on developing targeted retention strategies for the clients predicted to churn. This could involve personalized offers, discounts, or reach in other services which the client doesnt access yet.  
+2) <font color='blue'> Optimize resouce allocation</font>: - With precision 75.74% ensure that marketing and customer service are allocated effectivly. Focus efforts on clients predicted to churn while also maintaing the strategy to minimize engagement with the client which not  are a risk for churn.  
+3) <font color='blue'> Customer Feedback</font>: Establish mechanisms to gather feedback from the clients who have churned to identify common pain points. This information improvements in service or products offering for the pottential churn client.  
+3) <font color='blue'> Model monitoring</font>: Implementing a system  for ongoing monitoring  of the models over time because the clients behavior it changes and the date need to be realistically on time.
   
 This project demonstrates the potential of computer vision for age verification, contributing to legal compliance and responsible retailing. 
 
