@@ -32,9 +32,28 @@ Challenges:
 * The Mean Absolute Error (MAE) of 13 years suggests a high error margin, likely due to overfitting, insufficient epochs, or a broad age range (1-100 years old)
 
 ```javascript
-if (isAwesome){
-  return true
-}
+# function to create the model
+def create_model(input_shape):
+    
+    """
+    It defines the model
+    """
+    
+    # place your code here
+    backbone_model = ResNet50(weights='imagenet', include_top=False, input_shape=input_shape)
+    
+    model = Sequential([
+        backbone_model,
+        GlobalAveragePooling2D(),
+        Dense(128, activation='relu'),
+        Dropout(0.5),
+        Dense(1, activation='linear') # regression ouptput, age prediction
+    ])
+    model.compile(optimizer=Adam(learning_rate=0.0001),
+                 loss='mean_squared_error',
+                 metrics='mae')
+
+    return model
 ```
 
 ### 3. Support the selection of appropriate statistical tools and techniques
