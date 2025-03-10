@@ -40,7 +40,7 @@ The F1 score balances precision and recall, reflecting a reasonable trade-off be
 
 ### 4. *Business Recommendation*
 The recommandation and Insights for the Telecom business as follow:  
-1) <font color='blue'> **Targeted Retention strategies** </font> : - With hight score of recall 81.82% focus on developing targeted retention strategies for the clients predicted to churn. This could involve personalized offers, discounts, or reach in other services which the client doesnt access yet.  
-2) <font color='blue'> **Optimize resouce allocation** </font> : - With precision 75.74% ensure that marketing and customer service are allocated effectivly. Focus efforts on clients predicted to churn while also maintaing the strategy to minimize engagement with the client which not  are a risk for churn.  
-3) <font color='blue'> **Customer Feedback** </font> : Establish mechanisms to gather feedback from the clients who have churned to identify common pain points. This information improvements in service or products offering for the pottential churn client.  
-3) <font color='blue'> **Model monitoring** </font> : Implementing a system  for ongoing monitoring  of the models over time because the clients behavior it changes and the date need to be realistically on time.
+1) <font color='blue'> Targeted Retention strategies </font> : - With hight score of recall 81.82% focus on developing targeted retention strategies for the clients predicted to churn. This could involve personalized offers, discounts, or reach in other services which the client doesnt access yet.  
+2) <font color='blue'> Optimize resouce allocation </font> : - With precision 75.74% ensure that marketing and customer service are allocated effectivly. Focus efforts on clients predicted to churn while also maintaing the strategy to minimize engagement with the client which not  are a risk for churn.  
+3) <font color='blue'> Customer Feedback </font> : Establish mechanisms to gather feedback from the clients who have churned to identify common pain points. This information improvements in service or products offering for the pottential churn client.  
+3) <font color='blue'> Model monitoring </font> : Implementing a system  for ongoing monitoring  of the models over time because the clients behavior it changes and the date need to be realistically on time.
