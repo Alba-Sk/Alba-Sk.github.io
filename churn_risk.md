@@ -25,7 +25,7 @@ The model's performance metrics were evaluated to gauge its effectiveness in ide
 ROC AUC: 93.33%    
 This indicates excellent model performance, with the ability to distinguish churn clients from active clients effectively. The high ROC AUC suggests minimal false positives and negatives.
 
-Accuracy: 88.20%
+Accuracy: 88.20%  
 The model correctly predicted churn or non-churn in about 88.20% of cases, demonstrating overall correctness.  
 
 Precision: 75.74%  
