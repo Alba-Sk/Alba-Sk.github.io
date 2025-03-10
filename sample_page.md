@@ -1,9 +1,9 @@
 ## Age Detection Project
 
-### 1. **Project Overview:** 
+### 1. **Project Overview** 
 This project aims to assist the supermarket chain Good Seed with age detection for its buyers. The objective is to ensure that alcohol is sold only to customers who meet the legal age requirement while ensuring compliance with alcohol laws.
 
-### 2. Key Features
+### 2. **Key Features**
 
 * The checkout areas in Good Seed stores are equipped with cameras that capture images when a customer purchases alcohol.
 * Computer vision techniques are used to estimate a person’s age from the captured images.
@@ -16,7 +16,7 @@ plt.imshow(img)
 
 ```
 
-### Model Development
+### 3. **Model Development**
 
 The model was trained for 20 epochs. 
 
@@ -50,12 +50,11 @@ def create_model(input_shape):
     return model
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
 
 <img src="images/age_det.png?raw=true"/>
 
 
-### 4. Business Recommendation
+### 4. **Business Recommendation**
 
 The model demonstrates strong learning progress, with training MAE decreasing from 7.43 years to 3.18 years, showing it is effectively learning from the data. However, the validation MAE fluctuated and ended at 7.65 years, indicating potential overfitting or distribution mismatches between training and validation sets.  
 
