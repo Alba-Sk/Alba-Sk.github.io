@@ -4,7 +4,8 @@
 
 ### Data Science & Machine Learning - projects 
 
-[Project: Churn reduction strategy](https://github.com/Alba-Sk/Data_projects_TripleTen/) <!--[Project 1 Title](/sample_page) -->
+[Project: Churn reduction strategy](/churn_risk.md/)
+ <!--[Project 1 Title](/sample_page) (https://github.com/Alba-Sk/Data_projects_TripleTen/) -->
 
 <img src="images/Corr_churn.jpg?raw=true"/>
 
