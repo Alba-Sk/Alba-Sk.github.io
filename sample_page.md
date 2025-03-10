@@ -23,8 +23,10 @@ To train the model, a dataset consisting of photographs labeled with the respect
 Results & Performance  
 Model Learning Progress:    
    - The validation MAE decreased from 14.1033 to 13.4243, indicating slight improvement.  
+
 Loss Reduction:  
    - Both training and validation loss (MSE) decreased, showing that the model is learning.  
+
 Challenges:
    - The Mean Absolute Error (MAE) of 13 years suggests a high error margin, likely due to overfitting, insufficient epochs, or a broad age range (1-100 years old)
 
