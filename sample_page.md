@@ -11,9 +11,11 @@ This project aims to assist the supermarket chain Good Seed with age detection f
  
 
 ```javascript
-if (isAwesome){
+img = show_image(41, labels, path_2)
+plt.imshow(img)
+<--if (isAwesome){
   return true
-}
+}-->
 ```
 
 ### Model Development
