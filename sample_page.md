@@ -18,18 +18,12 @@ plt.imshow(img)
 
 ### Model Development
 
-To train the model, a dataset consisting of photographs labeled with the respective ages of individuals was used.
+The model was trained for 20 epochs. 
 
-Results & Performance  
-
-Model Learning Progress:    
-   - The validation MAE decreased from 14.1033 to 13.4243, indicating slight improvement.  
-
-Loss Reduction:  
-   - Both training and validation loss (MSE) decreased, showing that the model is learning.  
-
-Challenges:
-   - The Mean Absolute Error (MAE) of 13 years suggests a high error margin, likely due to overfitting, insufficient epochs, or a broad age range (1-100 years old)
+Training MAE consistently decreased from 7.4339 years (epoch 1) to 3.1785 years (epoch 20), indicating good learning progress.  
+Validation MAE improved from epoch 1 to epoch 10, reaching 6.969 years, but fluctuated afterward. It ended with an average validation MAE of 7.6512 years.  
+The best validation MAE was 6.6419 years (epoch 17).  
+A validation MAE of 7.65 years suggests a gap between training and validation performance, indicating potential overfitting or differences in dataset distribution.  
 
 ```javascript
 # function to create the model
@@ -60,22 +54,12 @@ def create_model(input_shape):
 
 <img src="images/age_det.png?raw=true"/>
 
-### 4. **Result interpretation**
 
-<font color='red'>**Roc Auc 93.33%**</font>: * This indicated excellent model performance in distinguishing between churn client and active clients, showing a strong ability to predict the positive class (churn clients) without a hight positive rate.
- 
- <font color='red'> **Accuracy 88.20%</font>: * This reflect overall correctness of the model, indicating that approximately  88.20% were correct.
- <font color='red'>**Precicion 75.74 %</font>: * The model predict the client will churn , and prediction rate is 75.74%. The hight rate precision is important to minimize false positive.
- <font color='red'> **Recall 81.82%</font>: * This parameter indicates that 81.82% of actual churn clients were correct identified by the model. 
- <font color='red'> **F1 Score78.66 %</font>: * This parameter provide a balance between precison and recall, indicating a reasonable trade between two metrics. This mscore show that the model preform well on identifying churn clients.
+### 4. Business Recommendation
 
-### 5. Business Recommendation
+The model demonstrates strong learning progress, with training MAE decreasing from 7.43 years to 3.18 years, showing it is effectively learning from the data. However, the validation MAE fluctuated and ended at 7.65 years, indicating potential overfitting or distribution mismatches between training and validation sets.  
 
-The recommandation and Insights for the Telecom business as follow:  
-1) <font color='blue'> Targeted Retention strategies</font>: - With hight score of recall 81.82% focus on developing targeted retention strategies for the clients predicted to churn. This could involve personalized offers, discounts, or reach in other services which the client doesnt access yet.  
-2) <font color='blue'> Optimize resouce allocation</font>: - With precision 75.74% ensure that marketing and customer service are allocated effectivly. Focus efforts on clients predicted to churn while also maintaing the strategy to minimize engagement with the client which not  are a risk for churn.  
-3) <font color='blue'> Customer Feedback</font>: Establish mechanisms to gather feedback from the clients who have churned to identify common pain points. This information improvements in service or products offering for the pottential churn client.  
-3) <font color='blue'> Model monitoring</font>: Implementing a system  for ongoing monitoring  of the models over time because the clients behavior it changes and the date need to be realistically on time.
+For business application, improving model generalization will help ensure reliable predictions in real-world scenarios. By addressing these issues, the model can be fine-tuned to provide more consistent and accurate predictions, which can be crucial for decision-making in areas like age verification, customer segmentation, or personalized services. Enhancing model accuracy will contribute to better business outcomes, such as improved compliance, customer satisfaction, and targeted marketing.  
   
 This project demonstrates the potential of computer vision for age verification, contributing to legal compliance and responsible retailing. 
 
