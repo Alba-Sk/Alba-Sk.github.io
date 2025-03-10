@@ -62,4 +62,4 @@ For business application, improving model generalization will help ensure reliab
   
 This project demonstrates the potential of computer vision for age verification, contributing to legal compliance and responsible retailing. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
