@@ -18,6 +18,26 @@ The model was validated using cross-validation techniques and tuned for optimal 
 
 Training:
 The model was trained for a sufficient number of epochs to ensure convergence and improvement in prediction accuracy.  
+```javascript
+# Prepare the Pool for training and validation
+train_pool = Pool(features_resample, target_resample)
+valid_pool = Pool(features_valid, target_valid)
+
+# Define parameters for the CatBoost model (using params_cv defined earlier)
+params_cv = {
+    'iterations': 2000,
+    'depth': 6,
+    'learning_rate': 0.03,
+    'l2_leaf_reg': 5,
+    'loss_function': 'Logloss',
+    'eval_metric': 'AUC',
+    'random_seed': 42,
+    'verbose': 0
+}
+# Train final model on the resampled dataset with evaluation set
+final_model = CatBoostClassifier(**params_cv)
+
+```
 
 ### 3. *Results*  
 The model's performance metrics were evaluated to gauge its effectiveness in identifying churners and non-churners:  
