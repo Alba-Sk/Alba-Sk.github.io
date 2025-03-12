@@ -13,13 +13,16 @@
 [Project: Age detection](/sample_page.md/)
 <img src="images/age_det.png?raw=true"/>
 
+
 ---
 [Project: East Coast Trip 2024](https://fancy-faloodeh-695333.netlify.app/) <!-- [Project 2 Title](/pdf/sample_presentation.pdf)-->
 <img src="images/east_trip.png?raw=true"/>
 
+
 ---
 [Project: Buy and sell car](https://web-car-pr.onrender.com/) <!-- [Project 3 Title](http://example.com/)-->
 <img src="images/web_car.png?raw=true"/>
+
 
 ---
 
