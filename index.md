@@ -4,7 +4,7 @@
 
 ### Data Science & Machine Learning - projects 
 
-[Project: Churn reduction strategy<font color='blue'>](/churn_risk.md/)</font>
+[<font color='red'>Project: Churn reduction strategy](/churn_risk.md/)</font>
  <!--[Project 1 Title](/sample_page) (https://github.com/Alba-Sk/Data_projects_TripleTen/) -->
 
 <img src="images/Corr_churn.jpg?raw=true"/>
@@ -12,17 +12,17 @@
 ---
 [Project: Age detection<font color='blue'>](/sample_page.md/)</font>
 <img src="images/age_det.png?raw=true"/>
-
+<!-- -->
 
 ---
 [Project: East Coast Trip 2024<font color='blue'>](https://fancy-faloodeh-695333.netlify.app/)</font> <!-- [Project 2 Title](/pdf/sample_presentation.pdf)-->
 <img src="images/east_trip.png?raw=true"/>
-
+<!-- -->
 
 ---
 [Project: Buy and sell car<font color='blue'>](https://web-car-pr.onrender.com/)</font> <!-- [Project 3 Title](http://example.com/)-->
 <img src="images/web_car.png?raw=true"/>
-
+<!-- -->
 
 ---
 
