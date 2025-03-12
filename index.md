@@ -4,7 +4,7 @@
 
 ### Data Science & Machine Learning - projects 
 
-[<font color='red'>Project: Churn reduction strategy](/churn_risk.md/)</font>
+[<font color='red'>Project: Churn reduction strategy</font>](/churn_risk.md/)
  <!--[Project 1 Title](/sample_page) (https://github.com/Alba-Sk/Data_projects_TripleTen/) -->
 
 <img src="images/Corr_churn.jpg?raw=true"/>
