@@ -10,17 +10,17 @@
 <img src="images/Corr_churn.jpg?raw=true"/>
 
 ---
-[Project: Age detection<font color='blue'>](/sample_page.md/)</font>
+[<font color='red'>[Project: Age detection</font>](/sample_page.md/)
 <img src="images/age_det.png?raw=true"/>
 <!-- -->
 
 ---
-[Project: East Coast Trip 2024<font color='blue'>](https://fancy-faloodeh-695333.netlify.app/)</font> <!-- [Project 2 Title](/pdf/sample_presentation.pdf)-->
+[<font color='red'>[Project: East Coast Trip 2024</font>](https://fancy-faloodeh-695333.netlify.app/) <!-- [Project 2 Title](/pdf/sample_presentation.pdf)-->
 <img src="images/east_trip.png?raw=true"/>
 <!-- -->
 
 ---
-[Project: Buy and sell car<font color='blue'>](https://web-car-pr.onrender.com/)</font> <!-- [Project 3 Title](http://example.com/)-->
+[<font color='red'>[Project: Buy and sell car</font>](https://web-car-pr.onrender.com/) <!-- [Project 3 Title](http://example.com/)-->
 <img src="images/web_car.png?raw=true"/>
 <!-- -->
 
