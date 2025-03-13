@@ -10,16 +10,19 @@
 <img src="images/Corr_churn.jpg?raw=true"/>
 
 ---
+
 [<font color='red'>[Project: Age detection</font>](/sample_page.md/)
 <img src="images/age_det.png?raw=true"/>
 <!-- -->
 
 ---
+
 [<font color='red'>[Project: East Coast Trip 2024</font>](https://fancy-faloodeh-695333.netlify.app/) <!-- [Project 2 Title](/pdf/sample_presentation.pdf)-->
 <img src="images/east_trip.png?raw=true"/>
 <!-- -->
 
 ---
+
 [<font color='red'>[Project: Buy and sell car</font>](https://web-car-pr.onrender.com/) <!-- [Project 3 Title](http://example.com/)-->
 <img src="images/web_car.png?raw=true"/>
 <!-- -->
