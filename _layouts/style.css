@@ -1,8 +1,9 @@
 .logo {
-    border-radius: 50%; /* Makes the image round */
-    width: 150px; /* Adjust as needed */
-    height: 150px; /* Ensures it's a perfect circle */
-    object-fit: cover; /* Prevents distortion */
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
     display: block;
-    margin: 0 auto; /* Centers the image */
+    margin: 0 auto;
 }
+
