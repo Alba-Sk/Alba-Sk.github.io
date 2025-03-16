@@ -42,6 +42,9 @@
          </ul>
          {% endif %}
       </header>
+         {% if site.logo %}
+         <img src="{{ site.logo | relative_url }}" alt="Logo" class="logo" />
+         {% endif %}
       <section>
          {{ content }}
       </section>
