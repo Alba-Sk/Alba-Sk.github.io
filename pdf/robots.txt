@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://alba-sk.github.io/sitemap.xml
+
+# Test update
