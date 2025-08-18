@@ -6,8 +6,6 @@
 
 [<font color='red'>Project: Streamlit Caustic Soda Rate calculation APP</font>](/Caustic.md/)
 
-<!--[Project 1 Title](/sample_page) (https://github.com/Alba-Sk/Data_projects_TripleTen/) -->
-
 <img scr="image/caustic app 08.17.2025.png?raw=true"/>
 
 
