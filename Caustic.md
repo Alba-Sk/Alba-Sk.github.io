@@ -1,12 +1,12 @@
 
-💰 ## Caustic Soda- Chemical Rate APP
+## 💰  Caustic Soda- Chemical Rate APP
 
 
 Streamlit-based pricing tool for calculating chemical product costs across multiple units of measure (UOM), delivery locations, and services like pumping.
 
 This tool allows users to easily calculate freight-inclusive pricing for chemicals using flexible inputs and provides a detailed breakdown of all costs — including material, freight, tote, pumping, and labor.
 
-🚀 ### Features
+###🚀 Features
 
 🧪 Supports multiple UOMs (Pound, Kg, Liter, IBC, DST, LMT)
 
@@ -25,7 +25,7 @@ This tool allows users to easily calculate freight-inclusive pricing for chemica
 <img width="451" height="270" alt="image" src="https://github.com/user-attachments/assets/64414220-6eed-4c6a-807d-07b69b912ed5" />
 
 
-🧮 ### How the Pricing Works 🔹 General Workflow User selects:
+### 🧮  How the Pricing Works 🔹 General Workflow User selects:
 
 Delivery date
 
