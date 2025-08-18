@@ -4,6 +4,15 @@
 
 ### Data Science & Machine Learning - projects 
 
+[<font color='red'>Project: Streamlit "Caustic Soda Rate calculation</font>](/.md/)
+
+<img width="716" height="883" alt="caustic app 08 17 2025" src="https://github.com/user-attachments/assets/bbe93549-141c-4c7d-8b62-4d117e1c8b7a" />
+
+
+---
+
+### Data Science & Machine Learning - projects 
+
 [<font color='red'>Project: Churn reduction strategy</font>](/churn_risk.md/)
  <!--[Project 1 Title](/sample_page) (https://github.com/Alba-Sk/Data_projects_TripleTen/) -->
 
