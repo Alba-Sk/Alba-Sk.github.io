@@ -6,7 +6,7 @@ Streamlit-based pricing tool for calculating chemical product costs across multi
 
 This tool allows users to easily calculate freight-inclusive pricing for chemicals using flexible inputs and provides a detailed breakdown of all costs — including material, freight, tote, pumping, and labor.
 
-###🚀 Features
+### 🚀 Features
 
   * Supports multiple UOMs (Pound, Kg, Liter, IBC, DST, LMT)
   * Delivery date & location-based pricing
