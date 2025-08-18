@@ -4,9 +4,10 @@
 
 ### Data Science & Machine Learning - projects 
 
-[<font color='red'>Project: Streamlit "Caustic Soda Rate calculation</font>](/.md/)
+[<font color='red'>Project: Streamlit -Caustic Soda Rate calculation APP </font>](/caustic app 08.17.2025.md/)
 
-<img width="716" height="883" alt="caustic app 08 17 2025" src="https://github.com/user-attachments/assets/bbe93549-141c-4c7d-8b62-4d117e1c8b7a" />
+
+<img scr="image/caustic app 08.17.2025.png?raw=true"/>
 
 
 ---
