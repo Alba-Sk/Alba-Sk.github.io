@@ -4,9 +4,9 @@
 
 ### Data Science & Machine Learning - projects 
 
-[<font color='red'>Project: Streamlit Caustic Soda Rate calculation APP</font>](/Caustic.md/)
+[<font color='red'>Project: Streamlit Caustic Soda Rate calculation APP</font>](//)
 
-<img src="images/caustic app 08.17.2025.png?raw=true"/>
+<img src="images/?raw=true"/>
 
 
 ---
