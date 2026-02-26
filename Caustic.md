@@ -17,7 +17,7 @@ This tool allows users to easily calculate freight-inclusive pricing for chemica
   * Submit Order from the customer
   * Get the Order request in Goodle Sheet
 
-<img width="488" height="461" alt="image" src="https://github.com/user-attachments/assets/937d6e84-a78c-4658-b9b9-00f9ad3f3e53" />
+<img width="488" height="461" alt="" src="https://github.com/user-attachments/assets/937d6e84-a78c-4658-b9b9-00f9ad3f3e53" />
 
 
 
@@ -50,5 +50,5 @@ Detailed cost breakdown (Material, Freight, Tote, Pumping, Labor)
 <img width="599" height="257" alt="image" src="https://github.com/user-attachments/assets/081c9ab4-c93c-4e94-8069-9f20b0e35f87" />
 
 
-<img width="716" height="883" alt="caustic app 08 17 2025" src="https://github.com/user-attachments/assets/305b61a6-3d36-4430-8900-d5a854379f0d" />
+<img width="716" height="883" alt="" src="https://github.com/user-attachments/assets/305b61a6-3d36-4430-8900-d5a854379f0d" />
 
